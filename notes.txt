@@ -1,0 +1,7 @@
+schema --
+table
+workid -- denotes the episode : ep 510
+epName -- episode name : mothers mercy
+discription -- where this is taking place
+body -- full text of the
+
